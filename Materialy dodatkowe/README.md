@@ -16,6 +16,7 @@ Zachęcam do dodawania materiałów do listy (2p).
 ## :snake: Python language
 - Czekam na Pull Requesty
 - **[100 pandas tricks to save you time and energy](https://www.dataschool.io/python-pandas-tips-and-tricks/)**
+- **[Awesome Python] (https://github.com/vinta/awesome-python?fbclid=IwAR02wS7TDHPmDkbjT4MG7wkOvXAX3ZgX6-D6t3Ianr5YmJ4VYG28mKy7eSI#websites)**
 
 ## :chart_with_upwards_trend: Ekonometria
 - **[Quantitative Economics with Julia](https://julia.quantecon.org/)**
